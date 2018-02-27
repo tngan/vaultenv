@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/tngan/vaultenv.git"
   },
-  "author": "",
+  "contributors": [
+    "Tony Ngan <tonynwk919@gmail.com>",
+    "Franky Lau <killalau1988@hotmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tngan/vaultenv/issues"
