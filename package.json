@@ -1,0 +1,25 @@
+{
+  "name": "vaultenv",
+  "version": "0.0.1",
+  "description": "Loads environment variables from Hashicorp's vault for Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tngan/vaultenv.git"
+  },
+  "contributors": [
+    "Tony Ngan <tonynwk919@gmail.com>",
+    "Franky Lau <killalau1988@hotmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tngan/vaultenv/issues"
+  },
+  "homepage": "https://github.com/tngan/vaultenv#readme",
+  "dependencies": {
+    "node-fetch": "^2.0.0"
+  }
+}
